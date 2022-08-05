@@ -2,7 +2,7 @@
 
 Vamos a Automatizar cosas con el uso de Dockerfile y la construcción de imágenes en `Docker`.
 
-1. Clona el repositorio de <https://github.com/AnhellO/pokepy> en esta ubicación
+1. Clona el repositorio de <https://github.com/roxsross/pokepy> en esta ubicación
 
 2. Muévete al directorio a través de la CLI y ejecuta el comando `docker build` para construir una nueva imágen de Docker en base al Dockerfile existente en el repositorio, por ejemplo `docker build -t roxsross12/pokepy-ejemplo:1.0 .`, donde `roxsross12` es el nombre de usuario en `DockerHub`, `pokepy-ejemplo` es el nombre que le vas a poner a tu imagen (puede ser cualquiera, el que tu gustes), y `1.0` la versión de tu imagen (puedes utilizar cualquier versión para este ejemplo)
 
