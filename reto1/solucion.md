@@ -10,7 +10,7 @@
 - El proceso termina preguntando si desea detener el contenedor previamente creado.
 
 1. Pantallazo donde se vea la creación del contenedor y podamos comprobar que el contenedor está funcionando.
-![Esta es una imagen] reto1/pantallas/reto1.png
+![reto1/pantallas/reto1.png](https://github.com/lerpoleo/bootcamp-3-challenge/blob/add/lerpoleo/reto1/pantallas/reto1.png)
 
 
 
